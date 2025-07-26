@@ -1,0 +1,1 @@
+# 52.Copies text from one file to another file.

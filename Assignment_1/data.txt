@@ -1,0 +1,4 @@
+Name : Tirth 
+Course : IMSCIT 
+Marks : 92
+GRADE : A 
